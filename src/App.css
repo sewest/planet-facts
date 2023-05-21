@@ -1,5 +1,6 @@
 :root {
-  --color-white: #fff;
+  --color-text: #fff;
+  --color-star: rgba(255, 255, 255, 0.2);
   --color-background: #070724;
   --color-hover: #838391;
   --color-mercury: #419ebb;

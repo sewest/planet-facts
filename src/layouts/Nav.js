@@ -19,8 +19,6 @@ export default function Nav() {
           <span></span>
           <span></span>
         </div>
-
-        {/* <button onClick={toggleNav}>Menu</button> */}
       </header>
       <ul className={styles.sidenav} id="mySidenav">
         {planetNames.map((planetName, index) => (
